@@ -9,19 +9,9 @@ object ManualAdjustment {
 
     fun withoutIgnoredRules(rules: Collection<Rule>) = rules.filter { !ignoredRules.contains(it.number) }
 
-    private val forceRemoveDependencies = listOf(
-        Dependency(dependent = 101, dependency = 2449),
-        Dependency(dependent = 101, dependency = 869),
-        Dependency(dependent = 101, dependency = 2141),
-        Dependency(dependent = 101, dependency = 478)
-    )
+    private val forceRemoveDependencies = listOf<Dependency>()
 
-    private val forceAdditionDependencies = listOf(
-        Dependency(dependent = 2449, dependency = 101),
-        Dependency(dependent = 869, dependency = 101),
-        Dependency(dependent = 2141, dependency = 101),
-        Dependency(dependent = 478, dependency = 101)
-    )
+    private val forceAdditionDependencies = listOf<Dependency>()
 
     fun adjustDependencies(dependencyMap: RuleDependencyMap): RuleDependencyMap {
         val copy = dependencyMap.mutableCopy()
