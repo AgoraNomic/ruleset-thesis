@@ -8,14 +8,12 @@ import org.agoranomic.ruleset_thesis.parsing.parseRuleList
 import org.agoranomic.ruleset_thesis.printers.graphviz.*
 import java.io.File
 import java.nio.file.Files
+import java.nio.file.Path
+
+private fun readSLR(path: Path) = parseRuleList(Files.readString(path)).map { it.rules }.flatten()
 
 fun main() {
-    val text = Files.readString(File("rules.txt").toPath())
-    val rules = ManualAdjustment.withoutIgnoredRules(
-        parseRuleList(
-            text
-        ).map { it.rules }.flatten()
-    )
+    val rules = ManualAdjustment.withoutIgnoredRules(readSLR(Path.of("rules.txt")))
     val ruleByNumber = rules.associateBy { it.number }
 
     val totalDependencyMap = ManualAdjustment.stripMissingStrongDependencies(
