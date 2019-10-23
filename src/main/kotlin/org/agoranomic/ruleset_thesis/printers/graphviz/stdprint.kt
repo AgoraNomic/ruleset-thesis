@@ -3,7 +3,7 @@ package org.agoranomic.ruleset_thesis.printers.graphviz
 import org.agoranomic.ruleset_thesis.dependency_map.RuleDependencyMap
 import org.agoranomic.ruleset_thesis.model.Rule
 
-fun toSimpleGraphviz(rules: List<Rule>, dependencyMap: RuleDependencyMap): String {
+fun toGraphvizSimple(rules: List<Rule>, dependencyMap: RuleDependencyMap): String {
     return toGraphviz(
         rules,
         dependencyMap,
