@@ -47,3 +47,13 @@ fun RuleDependencyMap.withoutIndirectDependentsOf(rule: RuleNumber): RuleDepende
     copy.removeIndirectDependentsOf(rule)
     return copy
 }
+
+fun MutableRuleDependencyMap.removeCircularDependencies() {
+    removeAll { it -> hasCircularDependency(it) }
+}
+
+fun RuleDependencyMap.withoutCircularDependencies(): RuleDependencyMap {
+    val copy = mutableCopy()
+    copy.removeCircularDependencies()
+    return copy
+}
