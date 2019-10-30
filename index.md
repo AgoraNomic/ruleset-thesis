@@ -193,15 +193,15 @@ These are the rules that have the most dependents, and including them in most gr
 
 The following graphs are attached, all as svg files:
 
-\[total\]: includes ALL rules that participate in the hierarchy, even those left out of other graphs.
+\[[total](graphs/total.svg)\]: includes ALL rules that participate in the hierarchy, even those left out of other graphs.
 
-\[simplified\]: includes the rules that are not excluded.
+\[[simplified](graphs/simplified.svg)\]: includes the rules that are not excluded.
 
-\[cycles\]: rules that participate in a dependency cycle are colored red, rules that do not are colored green.
+\[[cycles](graphs/cycles.svg)\]: rules that participate in a dependency cycle are colored red, rules that do not are colored green.
 
-\[leaves\]: rules that have no dependencies (leaves) are colored.
+\[[leaves](graphs/leaves.svg)\]: rules that have no dependencies (leaves) are colored.
 
-\[without_circular\]: ALL rules, except that any rule in a dependency cycle is simply removed; I find this interesting because it contains actual layers, rather than the insanity that there is right now.
+\[[without_circular](graphs/without_circular.svg)\]: ALL rules, except that any rule in a dependency cycle is simply removed; I find this interesting because it contains actual layers, rather than the insanity that there is right now.
 
 
 ## A2. Appendix: Other attachments
@@ -210,15 +210,15 @@ I've also attached some plain text files that provide more information on the to
 
 The following non-graph files are attached:
 
-\[dependent_counts\]: contains a list of rules and the number of dependents that each has.
+\[[dependent_counts](data/dependent_counts.txt)\]: contains a list of rules and the number of dependents that each has.
 
-\[dependency_counts\]: contains a list of rules and the number of dependencies that each has.
+\[[dependency_counts](data/dependency_counts.txt)\]: contains a list of rules and the number of dependencies that each has.
 
-\[circular_dependencies\]: contains a list of dependency cycles in the rules; each line is a separate cycle, and each rule depends on the one that follows it, with the final rule depending on the first rule.
+\[[circular_dependencies](data/circular_dependencies.txt)\]: contains a list of dependency cycles in the rules; each line is a separate cycle, and each rule depends on the one that follows it, with the final rule depending on the first rule.
 
-\[underpowered_dependencies\]: contains a list of the underpowered dependencies of each rule.
+\[[underpowered_dependencies](data/underpowered_dependencies.txt)\]: contains a list of the underpowered dependencies of each rule.
 
-\[dependents_(2152|869|1023|478)\]: contains a list of the direct dependents of Rule N, with one on each line.
+\[[dependents_(2152|869|1023|478)](data/dependents)\]: contains a list of the direct dependents of Rule N, with one on each line.
 
 
 ## A3. Appendix: Code
