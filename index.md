@@ -218,7 +218,7 @@ The following non-graph files are attached:
 
 \[[underpowered_dependencies](data/underpowered_dependencies.txt)\]: contains a list of the underpowered dependencies of each rule.
 
-\[[dependents_(2152|869|1023|478)](data/dependents)\]: contains a list of the direct dependents of Rule N, with one on each line.
+\[[dependents_\(2152\|869\|1023\|478\)](data/dependents)\]: contains a list of the direct dependents of Rule N, with one on each line.
 
 
 ## A3. Appendix: Code
