@@ -33,8 +33,11 @@ For example, Rule 2577 ("Asset Actions") has a strong dependency on Rule 2166 ("
 Despite my (maybe not quite) best efforts, there are some quirks with this machine-parsing.
 
 One issue was that, in an earlier version of the program, Rule 2582 was found to depend on Rule 2581, because Rule 2581 defined the Patent Title "Hard Labor", while Rule 2582 happened to use the term "hard labor" - this was fixed by making these patent titles require case-sensitive usages, rather than permitting case-insensitive usages.
+
 Another issue is that it is impossible to mark the word "own" as being defined by Rule 2576 ("Ownership"). "Own" simply has too many meanings besides asset ownership, even in rules that depend on assets. I'm not quite sure how to solve this problem, short of manually looking for all instances of it (which I'm not going to do).
+
 Something I found while writing this thesis was that in Rule 2581 "win-win" was being counted as if it was to "win" the game - this was fixed, but shows just how subtle these errors are to find. This could have gone completely unnoticed, but I just so happened to find it.
+
 Finally, I can't be absolutely sure that the dependency graphs are actually correct. They look reasonable to me, and I've examined some things that I've found surprising, and found the program to be correct, but I still can't be certain of the analysis in general.
 
 ### 1.3 Manual overrides
@@ -52,7 +55,9 @@ There is a single rule that has neither dependencies nor dependents - Rule 2429 
 In general, rules with more dependents can be said to have more important definitions in them, and are generally of higher power (there is only 1 power-2 rule in the rules with the top 10 most dependents; the rest are power-3 or power-4).
 
 The rule with the most dependents is Rule 2152 ("Mother, May I?"), with 87 direct dependents, or ~71% of all rules. I find this to be unsurprising - the terms defined there are used in a lot of places.
+
 Next up is Rule 869 ("How to Join and Leave Agora"), with 81 direct dependents. Again, I find this unsurprising - this is the rule that defines both "player" and "person", which show up a lot in the Rules.
+
 Third place is Rule 2141 ("Role and Attributes of Rules"), with 72 direct dependents. I found this surprising at first, and I believe this can be partially attributed to the common usage of the phrase "rules to the contrary notwithstanding", which I have counted as being defined by Rule 2141.
 
 Finally, there are 55 leaves (rules with no dependents). These could be rules that don't define any terms (i.e. Rule 1030, which defines no terms, but is still implicitly referenced by other rules), or rules that only implement actual game mechanics.
