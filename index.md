@@ -175,7 +175,7 @@ I've attached some graphs that may be of interest to the community. This thesis 
 
 All graphs were generated with graphviz, available at <https://graphviz.org/>. This was done by having my program iterate through the dependency map and emit the source for graphviz.
 
-The following command was used to generate all graphs: [dot -Tsvg -start=1000 "$graphFile" > "$outFile"], where "$graphFile" and "$outFile" are replaced by the graphviz source file and the output file, respectively. The start parameter is necessary because, if it is not provided, graphviz uses the time to seed a random number generator, while if it is provided, the provided number is used as the seed, thus giving deterministic graphs.
+The following command was used to generate all graphs: `dot -Tsvg -start=1000 "$graphFile" > "$outFile"`, where `$graphFile` and `$outFile` are replaced by the graphviz source file and the output file, respectively. The start parameter is necessary because, if it is not provided, graphviz uses the time to seed a random number generator, while if it is provided, the provided number is used as the seed, thus giving deterministic graphs.
 
 ### A1.2 Non-graphed rules
 
