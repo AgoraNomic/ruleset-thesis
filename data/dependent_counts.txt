@@ -1,0 +1,119 @@
+Rule 2152 ("Mother, May I?") has 87 dependents
+Rule 869 ("How to Join and Leave Agora") has 81 dependents
+Rule 2141 ("Role and Attributes of Rules") has 72 dependents
+Rule 478 ("Fora") has 66 dependents
+Rule 101 ("The Game of Agora") has 48 dependents
+Rule 1023 ("Agoran Time") has 48 dependents
+Rule 1728 ("Dependent Action Methods") has 36 dependents
+Rule 1006 ("Offices") has 28 dependents
+Rule 1688 ("Power") has 24 dependents
+Rule 2350 ("Proposals") has 22 dependents
+Rule 693 ("Agoran Decisions") has 20 dependents
+Rule 2143 ("Official Reports and Duties") has 19 dependents
+Rule 991 ("Calls for Judgement") has 17 dependents
+Rule 2577 ("Asset Actions") has 16 dependents
+Rule 2162 ("Switches") has 15 dependents
+Rule 2449 ("Winning the Game") has 14 dependents
+Rule 2528 ("Voting Methods") has 12 dependents
+Rule 2555 ("Blots") has 10 dependents
+Rule 2139 ("The Registrar") has 9 dependents
+Rule 955 ("Determining the Will of Agora") has 9 dependents
+Rule 649 ("Patent Titles") has 9 dependents
+Rule 2138 ("The Associate Director of Personnel") has 7 dependents
+Rule 2557 ("Sentencing Guidelines") has 7 dependents
+Rule 2166 ("Assets") has 7 dependents
+Rule 2545 ("Auctions") has 7 dependents
+Rule 105 ("Rule Changes") has 6 dependents
+Rule 208 ("Resolving Agoran Decisions") has 6 dependents
+Rule 2154 ("Election Procedure") has 6 dependents
+Rule 2519 ("Consent") has 6 dependents
+Rule 2578 ("Currencies") has 6 dependents
+Rule 2532 ("Zombies") has 6 dependents
+Rule 2493 ("Regulations") has 5 dependents
+Rule 1051 ("The Rulekeepor") has 5 dependents
+Rule 2422 ("Voting Strength") has 5 dependents
+Rule 2201 ("Self-Ratification") has 5 dependents
+Rule 1742 ("Contracts") has 5 dependents
+Rule 2550 ("Bidding") has 5 dependents
+Rule 103 ("The Speaker") has 5 dependents
+Rule 2423 ("First Among Equals") has 5 dependents
+Rule 1607 ("Distribution") has 4 dependents
+Rule 1551 ("Ratification") has 4 dependents
+Rule 2478 ("Vigilante Justice") has 4 dependents
+Rule 2576 ("Ownership") has 4 dependents
+Rule 2483 ("Economics") has 4 dependents
+Rule 2518 ("Determinacy") has 3 dependents
+Rule 2137 ("The Assessor") has 3 dependents
+Rule 879 ("Quorum") has 3 dependents
+Rule 2438 ("Ribbons") has 3 dependents
+Rule 2466 ("Acting on Behalf") has 2 dependents
+Rule 2579 ("Fee-based Actions") has 2 dependents
+Rule 2456 ("The Treasuror") has 2 dependents
+Rule 2574 ("Zombie Life Cycle") has 2 dependents
+Rule 1885 ("Zombie Auctions") has 2 dependents
+Rule 2464 ("Tournaments") has 2 dependents
+Rule 1789 ("Cantus Cygneus") has 1 dependents
+Rule 2124 ("Agoran Satisfaction") has 1 dependents
+Rule 2505 ("Random Choices") has 1 dependents
+Rule 1681 ("The Logical Rulesets") has 1 dependents
+Rule 2472 ("Office Incompatibilities") has 1 dependents
+Rule 591 ("Delivering Judgements") has 1 dependents
+Rule 2492 ("Recusal") has 1 dependents
+Rule 2450 ("Pledges") has 1 dependents
+Rule 2499 ("Welcome Packages") has 1 dependents
+Rule 2480 ("Festivals") has 1 dependents
+Rule 1698 ("Agora Is A Nomic") has 0 dependents
+Rule 2509 ("Agoran Numbers") has 0 dependents
+Rule 2125 ("Regulated Actions") has 0 dependents
+Rule 2595 ("Performing a Dependent Action") has 0 dependents
+Rule 1586 ("Definition and Continuity of Entities") has 0 dependents
+Rule 2140 ("Power Controls Mutability") has 0 dependents
+Rule 106 ("Adopting Proposals") has 0 dependents
+Rule 2597 ("Line-item Veto") has 0 dependents
+Rule 217 ("Interpreting the Rules") has 0 dependents
+Rule 1030 ("Precedence between Rules") has 0 dependents
+Rule 2240 ("No Cretans Need Apply") has 0 dependents
+Rule 2221 ("Cleanliness") has 0 dependents
+Rule 2429 ("Bleach") has 0 dependents
+Rule 2599 ("The Editor") has 0 dependents
+Rule 107 ("Initiating Agoran Decisions") has 0 dependents
+Rule 683 ("Voting on Agoran Decisions") has 0 dependents
+Rule 2127 ("Conditional Votes") has 0 dependents
+Rule 2168 ("Extending the voting period") has 0 dependents
+Rule 1950 ("Decisions with Adoption Indices") has 0 dependents
+Rule 2034 ("Vote Protection and Cutoff for Challenges") has 0 dependents
+Rule 2573 ("Impeachment") has 0 dependents
+Rule 2160 ("Deputisation") has 0 dependents
+Rule 2379 ("No News Is Some News") has 0 dependents
+Rule 2202 ("Ratification Without Objection") has 0 dependents
+Rule 2556 ("Penalties") has 0 dependents
+Rule 2479 ("Official Justice") has 0 dependents
+Rule 2531 ("Referee Accountability") has 0 dependents
+Rule 911 ("Motions and Moots") has 0 dependents
+Rule 2175 ("Judicial Retraction and Excess") has 0 dependents
+Rule 2246 ("Submitting a CFJ to the Referee") has 0 dependents
+Rule 2471 ("No Faking") has 0 dependents
+Rule 2496 ("Rewards") has 0 dependents
+Rule 2559 ("Paydays") has 0 dependents
+Rule 2585 ("Birthday Gifts") has 0 dependents
+Rule 2549 ("Auction Initiation") has 0 dependents
+Rule 2551 ("Auction End") has 0 dependents
+Rule 2552 ("Auction Termination") has 0 dependents
+Rule 2584 ("Free Auctions") has 0 dependents
+Rule 2465 ("Victory by Apathy") has 0 dependents
+Rule 2510 ("Such is Karma") has 0 dependents
+Rule 2553 ("Win by Paradox") has 0 dependents
+Rule 2481 ("Festival Restrictions") has 0 dependents
+Rule 2415 ("Badges") has 0 dependents
+Rule 1367 ("Degrees") has 0 dependents
+Rule 2231 ("Order of the Hero of Agora Nomic") has 0 dependents
+Rule 2581 ("Official Patent Titles") has 0 dependents
+Rule 2582 ("Annual Awards") has 0 dependents
+Rule 104 ("First Speaker") has 0 dependents
+Rule 2463 ("Motion of No Confidence") has 0 dependents
+Rule 2451 ("Executive Orders") has 0 dependents
+Rule 2575 ("The Distributor") has 0 dependents
+Rule 2327 ("Read the Ruleset Week") has 0 dependents
+Rule 2566 ("Free Tournaments") has 0 dependents
+Rule 2495 ("The Birthday Tournament") has 0 dependents
+Rule 1769 ("Holidays") has 0 dependents

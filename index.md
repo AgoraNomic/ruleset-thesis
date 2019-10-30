@@ -209,6 +209,7 @@ The following graphs are attached, all as svg files:
 I've also attached some plain text files that provide more information on the topics that I've gone into above.
 
 The following non-graph files are attached:
+
 \[dependent_counts\]: contains a list of rules and the number of dependents that each has.
 
 \[dependency_counts\]: contains a list of rules and the number of dependencies that each has.

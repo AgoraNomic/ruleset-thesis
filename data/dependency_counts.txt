@@ -1,0 +1,119 @@
+Rule 2532 ("Zombies") has 19 dependencies
+Rule 2438 ("Ribbons") has 19 dependencies
+Rule 2581 ("Official Patent Titles") has 19 dependencies
+Rule 2582 ("Annual Awards") has 15 dependencies
+Rule 1607 ("Distribution") has 14 dependencies
+Rule 2496 ("Rewards") has 14 dependencies
+Rule 1885 ("Zombie Auctions") has 14 dependencies
+Rule 2154 ("Election Procedure") has 13 dependencies
+Rule 2531 ("Referee Accountability") has 13 dependencies
+Rule 2574 ("Zombie Life Cycle") has 13 dependencies
+Rule 2597 ("Line-item Veto") has 12 dependencies
+Rule 2472 ("Office Incompatibilities") has 12 dependencies
+Rule 991 ("Calls for Judgement") has 12 dependencies
+Rule 103 ("The Speaker") has 12 dependencies
+Rule 2451 ("Executive Orders") has 12 dependencies
+Rule 2162 ("Switches") has 11 dependencies
+Rule 107 ("Initiating Agoran Decisions") has 11 dependencies
+Rule 1006 ("Offices") has 11 dependencies
+Rule 2480 ("Festivals") has 11 dependencies
+Rule 2143 ("Official Reports and Duties") has 10 dependencies
+Rule 911 ("Motions and Moots") has 10 dependencies
+Rule 2551 ("Auction End") has 10 dependencies
+Rule 649 ("Patent Titles") has 10 dependencies
+Rule 2495 ("The Birthday Tournament") has 10 dependencies
+Rule 2599 ("The Editor") has 9 dependencies
+Rule 2202 ("Ratification Without Objection") has 9 dependencies
+Rule 2556 ("Penalties") has 9 dependencies
+Rule 1742 ("Contracts") has 9 dependencies
+Rule 2510 ("Such is Karma") has 9 dependencies
+Rule 2553 ("Win by Paradox") has 9 dependencies
+Rule 2575 ("The Distributor") has 9 dependencies
+Rule 2464 ("Tournaments") has 9 dependencies
+Rule 869 ("How to Join and Leave Agora") has 8 dependencies
+Rule 478 ("Fora") has 8 dependencies
+Rule 2595 ("Performing a Dependent Action") has 8 dependencies
+Rule 105 ("Rule Changes") has 8 dependencies
+Rule 208 ("Resolving Agoran Decisions") has 8 dependencies
+Rule 2168 ("Extending the voting period") has 8 dependencies
+Rule 2555 ("Blots") has 8 dependencies
+Rule 2478 ("Vigilante Justice") has 8 dependencies
+Rule 2576 ("Ownership") has 8 dependencies
+Rule 2483 ("Economics") has 8 dependencies
+Rule 2549 ("Auction Initiation") has 8 dependencies
+Rule 1367 ("Degrees") has 8 dependencies
+Rule 1698 ("Agora Is A Nomic") has 7 dependencies
+Rule 2139 ("The Registrar") has 7 dependencies
+Rule 2124 ("Agoran Satisfaction") has 7 dependencies
+Rule 2350 ("Proposals") has 7 dependencies
+Rule 106 ("Adopting Proposals") has 7 dependencies
+Rule 683 ("Voting on Agoran Decisions") has 7 dependencies
+Rule 955 ("Determining the Will of Agora") has 7 dependencies
+Rule 1950 ("Decisions with Adoption Indices") has 7 dependencies
+Rule 2160 ("Deputisation") has 7 dependencies
+Rule 2585 ("Birthday Gifts") has 7 dependencies
+Rule 2481 ("Festival Restrictions") has 7 dependencies
+Rule 2566 ("Free Tournaments") has 7 dependencies
+Rule 2493 ("Regulations") has 6 dependencies
+Rule 879 ("Quorum") has 6 dependencies
+Rule 2573 ("Impeachment") has 6 dependencies
+Rule 2201 ("Self-Ratification") has 6 dependencies
+Rule 2479 ("Official Justice") has 6 dependencies
+Rule 2557 ("Sentencing Guidelines") has 6 dependencies
+Rule 2246 ("Submitting a CFJ to the Referee") has 6 dependencies
+Rule 2450 ("Pledges") has 6 dependencies
+Rule 2466 ("Acting on Behalf") has 6 dependencies
+Rule 2579 ("Fee-based Actions") has 6 dependencies
+Rule 2559 ("Paydays") has 6 dependencies
+Rule 2545 ("Auctions") has 6 dependencies
+Rule 2550 ("Bidding") has 6 dependencies
+Rule 2552 ("Auction Termination") has 6 dependencies
+Rule 2231 ("Order of the Hero of Agora Nomic") has 6 dependencies
+Rule 2423 ("First Among Equals") has 6 dependencies
+Rule 1789 ("Cantus Cygneus") has 5 dependencies
+Rule 1023 ("Agoran Time") has 5 dependencies
+Rule 2141 ("Role and Attributes of Rules") has 5 dependencies
+Rule 1051 ("The Rulekeepor") has 5 dependencies
+Rule 1681 ("The Logical Rulesets") has 5 dependencies
+Rule 2127 ("Conditional Votes") has 5 dependencies
+Rule 1551 ("Ratification") has 5 dependencies
+Rule 591 ("Delivering Judgements") has 5 dependencies
+Rule 2175 ("Judicial Retraction and Excess") has 5 dependencies
+Rule 2492 ("Recusal") has 5 dependencies
+Rule 2471 ("No Faking") has 5 dependencies
+Rule 2577 ("Asset Actions") has 5 dependencies
+Rule 2499 ("Welcome Packages") has 5 dependencies
+Rule 2584 ("Free Auctions") has 5 dependencies
+Rule 2449 ("Winning the Game") has 5 dependencies
+Rule 2415 ("Badges") has 5 dependencies
+Rule 2463 ("Motion of No Confidence") has 5 dependencies
+Rule 101 ("The Game of Agora") has 4 dependencies
+Rule 2125 ("Regulated Actions") has 4 dependencies
+Rule 1586 ("Definition and Continuity of Entities") has 4 dependencies
+Rule 2221 ("Cleanliness") has 4 dependencies
+Rule 2528 ("Voting Methods") has 4 dependencies
+Rule 2034 ("Vote Protection and Cutoff for Challenges") has 4 dependencies
+Rule 2166 ("Assets") has 4 dependencies
+Rule 2465 ("Victory by Apathy") has 4 dependencies
+Rule 1769 ("Holidays") has 4 dependencies
+Rule 2152 ("Mother, May I?") has 3 dependencies
+Rule 2509 ("Agoran Numbers") has 3 dependencies
+Rule 2505 ("Random Choices") has 3 dependencies
+Rule 1688 ("Power") has 3 dependencies
+Rule 217 ("Interpreting the Rules") has 3 dependencies
+Rule 2422 ("Voting Strength") has 3 dependencies
+Rule 2138 ("The Associate Director of Personnel") has 3 dependencies
+Rule 2519 ("Consent") has 3 dependencies
+Rule 2578 ("Currencies") has 3 dependencies
+Rule 2456 ("The Treasuror") has 3 dependencies
+Rule 2140 ("Power Controls Mutability") has 2 dependencies
+Rule 1030 ("Precedence between Rules") has 2 dependencies
+Rule 693 ("Agoran Decisions") has 2 dependencies
+Rule 2379 ("No News Is Some News") has 2 dependencies
+Rule 1728 ("Dependent Action Methods") has 1 dependencies
+Rule 2518 ("Determinacy") has 1 dependencies
+Rule 2137 ("The Assessor") has 1 dependencies
+Rule 2240 ("No Cretans Need Apply") has 1 dependencies
+Rule 104 ("First Speaker") has 1 dependencies
+Rule 2327 ("Read the Ruleset Week") has 1 dependencies
+Rule 2429 ("Bleach") has 0 dependencies
