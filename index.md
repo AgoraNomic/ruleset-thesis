@@ -1,4 +1,4 @@
-# Rulset Thesis
+# Ruleset Thesis
 
 ## 0. Introduction
 At the time of writing, Agora has a large number of rules - 122 rules to be exact. Many of these rules build off of other rules. Eventually, the concepts in the rules are built up enough to allow actual gameplay. Thoughout the ruleset, the Rules build up a complex dependency network.
