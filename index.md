@@ -173,7 +173,7 @@ I've attached some graphs that may be of interest to the community. This thesis 
 
 ### A1.1 Graph Generation
 
-All graphs were generated with graphviz, available at https://graphviz.org/ . This was done by having my program iterate through the dependency map and emit the source for graphviz.
+All graphs were generated with graphviz, available at <https://graphviz.org/>. This was done by having my program iterate through the dependency map and emit the source for graphviz.
 
 The following command was used to generate all graphs: [dot -Tsvg -start=1000 "$graphFile" > "$outFile"], where "$graphFile" and "$outFile" are replaced by the graphviz source file and the output file, respectively. The start parameter is necessary because, if it is not provided, graphviz uses the time to seed a random number generator, while if it is provided, the provided number is used as the seed, thus giving deterministic graphs.
 
@@ -223,5 +223,5 @@ The following non-graph files are attached:
 
 ## A3. Appendix: Code
 
-All code used is attached. In addition, it is published at https://github.com/agoraNomic/ruleset-thesis. Feel free to look at it and play with it.
+All code used is attached. In addition, it is published at <https://github.com/agoraNomic/ruleset-thesis>. Feel free to look at it and play with it.
 
