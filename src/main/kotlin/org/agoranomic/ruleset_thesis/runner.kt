@@ -44,7 +44,7 @@ fun main() {
     outputText("circular_dependencies", toCircularDependencyRoutes(totalDependencyMap))
     outputText("underpowered_dependencies", toUnderpoweredDependencies(rules, totalDependencyMap))
 
-    for (rule in listOf(2125, 869, 1023, 478)) {
+    for (rule in listOf(2152, 869, 1023, 478)) {
         outputText("dependents_$rule", totalDependencyMap.directDependentsOf(rule).joinToString("\n"))
     }
 }
