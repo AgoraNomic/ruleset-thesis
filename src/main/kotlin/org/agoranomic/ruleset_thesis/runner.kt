@@ -45,6 +45,6 @@ fun main() {
     outputText("underpowered_dependencies", toUnderpoweredDependencies(rules, totalDependencyMap))
 
     for (rule in listOf(2125, 869, 1023, 478)) {
-        outputText("dependents_$rule", shortDependencyMap.directDependentsOf(rule).joinToString("\n"))
+        outputText("dependents_$rule", totalDependencyMap.directDependentsOf(rule).joinToString("\n"))
     }
 }
